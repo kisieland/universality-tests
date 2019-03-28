@@ -1,0 +1,14 @@
+2 4 2 2 8
+a b
+s1 s2 g1 g2 
+s1 g2
+g1 s2
+s1 a s1
+s1 b g1
+g1 a g1
+g1 b s1
+s2 a s2
+s2 b g2
+g2 a g2
+g2 b s2
+4
